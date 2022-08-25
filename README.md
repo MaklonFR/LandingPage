@@ -1,4 +1,4 @@
-# Submission-Akhir---Dasar-Pemrograman-Web--Dicoding-
+# Submission Akhir Dasar Pemrograman Web Dicoding
 
 
 Halaman Home
